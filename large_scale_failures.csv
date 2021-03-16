@@ -1,0 +1,47 @@
+region_name,date,count,services,mean_failure_time(min)
+Frankfurt,2019-11-12,4,"Elastic Compute Cloud, Relational Database Service, CloudFormation, Auto Scaling",213.0
+Global,2019-10-20,2,"Route 53, Route 53",125.0
+Global,2020-06-12,2,"Identity and Access Management, Organizations",501.5
+Global,2020-10-01,2,"CloudFront, Identity and Access Management",65.0
+Hong Kong,2019-11-07,3,"Kinesis Data Streams, CloudWatch, Kinesis Firehose",94.0
+Ireland,2018-09-26,4,"Elastic Compute Cloud, CloudHSM, Elastic File System, Direct Connect",78.5
+Ireland,2019-05-10,2,"Elastic Beanstalk, Relational Database Service",114.0
+Ireland,2019-10-02,3,"Batch, IoT Core, API Gateway",105.66666666666667
+London,2019-01-12,3,"Elastic Compute Cloud, Lambda, Relational Database Service",96.66666666666667
+London,2019-06-30,4,"Elastic Compute Cloud, Elastic Load Balancing, CloudWatch, Simple Workflow Service",97.0
+London,2019-07-23,2,"Elastic Compute Cloud, Relational Database Service",128.5
+London,2020-08-25,2,"Elastic Compute Cloud, Relational Database Service",185.0
+N. California,2018-10-19,3,"Elastic Compute Cloud, Simple Storage Service, DynamoDB",19.0
+N. California,2020-05-10,2,"Elastic Container Service, Batch",163.5
+N. Virginia,2018-05-15,3,"Elastic Compute Cloud, Elastic Load Balancing, Elastic MapReduce",125.66666666666667
+N. Virginia,2018-05-16,4,"Simple Storage Service, CodeBuild, AppStream 2.0, Systems Manager",97.5
+N. Virginia,2018-05-31,4,"Elastic Compute Cloud, Redshift, WorkSpaces, Relational Database Service",51.5
+N. Virginia,2018-10-17,4,"Elastic Compute Cloud, Elastic Load Balancing, Relational Database Service, Auto Scaling",113.75
+N. Virginia,2019-06-27,4,"IoT Analytics, Glue, Athena, Redshift",297.75
+N. Virginia,2019-08-31,3,"Elastic Compute Cloud, WorkSpaces, Relational Database Service",372.6666666666667
+N. Virginia,2019-11-12,3,"Elastic Compute Cloud, Connect, Lambda",128.33333333333334
+N. Virginia,2020-07-20,2,"Simple Workflow Service, CloudFormation",300.0
+N. Virginia,2020-09-01,2,"SageMaker, DeepRacer",435.5
+N. Virginia,2020-10-09,2,"Elastic Compute Cloud, Lambda",453.5
+N. Virginia,2020-11-20,3,"Kinesis Data Streams, CloudWatch, AppStream 2.0",131.33333333333334
+N. Virginia,2020-11-25,11,"Kinesis Data Streams, Kinesis Data Streams, CloudWatch, Cognito, EventBridge, Elastic Kubernetes Service, Elastic Container Service, IoT Core, IoT SiteWise, Batch, WorkSpaces",924.6363636363636
+N. Virginia,2020-12-18,3,"Elastic Compute Cloud, VPCE PrivateLink, Elastic Load Balancing",135.0
+N. Virginia,2021-03-04,2,"Transfer for SFTP, CloudFormation",111.5
+Ohio,2018-05-31,2,"Elastic Compute Cloud, Internet Connectivity",34.0
+Ohio,2018-10-05,6,"Simple Storage Service, Glacier, Kinesis Firehose, Elastic Compute Cloud, CodeCommit, Elastic Container Service",46.833333333333336
+Ohio,2019-05-03,4,"Simple Queue Service, Lambda, CloudWatch, IoT Core",74.0
+Oregon,2018-10-01,6,"Elastic Compute Cloud, Auto Scaling, Lambda, Elastic Load Balancing, Elastic MapReduce, WorkSpaces",210.66666666666666
+Oregon,2018-10-04,2,"Elastic Compute Cloud, Secrets Manager",191.5
+Oregon,2019-03-27,3,"CloudWatch, Certificate Manager, Auto Scaling",121.33333333333333
+Oregon,2019-03-28,5,"Lambda, API Gateway, Resource Access Manager, Batch, AppSync",173.2
+Oregon,2021-01-07,3,"Kinesis Data Streams, EventBridge, CloudWatch",26.666666666666668
+Paris,2020-01-22,2,"Internet Connectivity, Elastic Compute Cloud",88.0
+Seoul,2018-11-22,10,"Elastic Compute Cloud, Lambda, Elastic Beanstalk, API Gateway, MQ, Kinesis Firehose, IoT Core, WorkSpaces, Redshift, X-Ray",98.2
+Seoul,2020-12-18,2,"Elastic Load Balancing, NAT Gateway",423.0
+Singapore,2019-10-01,2,"Internet Connectivity, Elastic Compute Cloud",50.0
+Sydney,2019-02-13,2,"Elastic Beanstalk, Relational Database Service",217.0
+Sydney,2019-11-26,2,"Elastic Compute Cloud, Auto Scaling",90.0
+Sydney,2020-01-23,7,"Elastic Compute Cloud, Relational Database Service, Elastic Load Balancing, AppStream 2.0, ElastiCache, Lambda, WorkSpaces",434.7142857142857
+Tokyo,2019-08-23,2,"Elastic Compute Cloud, Relational Database Service",461.5
+Tokyo,2020-04-20,4,"CloudWatch, Simple Queue Service, Lambda, CloudFormation",183.5
+Tokyo,2021-02-19,2,"Elastic Compute Cloud, Elastic Load Balancing",202.5

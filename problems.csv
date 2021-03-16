@@ -1,0 +1,176 @@
+problem,size
+additional information,1
+alarm delays,1
+api error rate,1
+api error rates and latencies,1
+api error rates and metric delays,1
+api faults and latencies,1
+api latencies and error rate,1
+applications not processing data,1
+authentication availability,1
+availability,3
+aws site-to-site vpn connectivity issues,1
+call quality degradation,1
+certificate issuance delays,2
+change propagation and invalidations reporting delay,1
+change propagation delays,5
+change propagation delays & api errors,2
+cloudfront dns errors,1
+cloudfront high error rates,1
+connection errors,1
+connection reset and socket timeout for sqs,1
+connectivity issues,7
+connectivity issues for network load balancers,1
+degraded call handling,1
+degraded call handling experience,1
+degraded metrics performance,1
+degraded volume performance for ebs volumes / insufficient-data for ec2 instance status checks,1
+degraded workmail performance,1
+delayed data delivery,1
+delayed metrics,1
+delayed network provisioning,1
+delays in invalidation change times,1
+delays in propagating certain configuration changes to a few cloudfront edge locations,1
+delays in starting clusters,2
+dns propagation delays for ec2 instance names,1
+dns resolution issues,1
+domain connectivity,1
+ebs volumes degraded performance,1
+ec2 instance meta data service errors,1
+ec2 launch failures,1
+ec2 recursive dns resolution issues,1
+elevated api and workflow execution latencies,1
+elevated api error rates,6
+elevated api errors and delayed metrics,1
+elevated api faults and alarm delays,1
+elevated api faults and latencies in eu-west-1.,1
+elevated cloudfront api errors,1
+elevated error rates,8
+elevated error rates for fifo queues,1
+elevated error rates for simple workflow,1
+elevated error rates for sqs,1
+elevated errors from one of our edge locations in japan,1
+elevated failure rates,1
+elevated lambda@edge errors,1
+elevated latencies and api error rates,1
+elevated latencies and faults in eu-west-2,1
+elevated launch failures,1
+elevated query error rates and delays for cloudwatch logs insights in us-east-1 region,1
+elevated route 53 api error rates,1
+elevated sign in error rates,1
+elevated stack latencies,1
+elevated waf error rates,1
+external network connectivity issues,1
+failures in starting clusters,9
+further information regarding dns resolution,1
+increase api error rates,1
+increase error rate,1
+increased 400 error rates,1
+increased api and launch error rates,1
+increased api error rates,46
+increased api error rates and connectivity issues,1
+increased api error rates and event delivery latencies,1
+increased api error rates and latencies,7
+increased api error rates and latency,2
+increased api error rates and launch failures,1
+increased api error rates and launches,2
+increased api error rates for ec2 spot,1
+increased api errors,3
+increased api errors and event delivery latencies,1
+increased api errors and latencies,2
+increased api failure rates,1
+increased api faults,1
+increased api latencies,1
+increased api latencies and management console error rates,1
+increased async api latencies,1
+increased auto scaling api errors,2
+increased aws marketplace subscription error rates and latencies,1
+increased billing console error rates,2
+increased build error rates,1
+increased call failures,1
+increased change propagation time,1
+increased cloudwatch api error rates,1
+increased console and api error rates,1
+increased console error rates,5
+increased console error rates and latencies,1
+increased console errors,1
+increased create times and cluster unavailability,2
+increased delays in event processing from streams,1
+increased delays in job state transition,1
+increased deployment latencies,1
+increased dns query timeouts,1
+increased domain operation error rates,1
+increased email receiving latencies,1
+increased error rate,1
+increased error rates,53
+increased error rates &amp; latencies,1
+increased error rates and latencies,9
+increased error rates and latencies for multiple api operations,1
+increased error rates and latency,1
+increased error rates for bucket operations,1
+increased error rates for builds,1
+increased error rates for sms delivery,1
+increased error rates for training jobs,1
+increased errors,2
+increased errors terminating workspaces,1
+increased faults and latencies,1
+increased iam error rates and latencies,1
+increased indexing and query error rates for some vpc domains,1
+increased instance provisioning error rates,1
+increased invalidation error rates,1
+increased invoke error rate,1
+increased job processing delays,1
+increased latency and error rates,1
+increased launch error rates,1
+increased launch errors &amp; api errors,1
+increased launch failures,1
+increased launch latencies,1
+increased launch times,1
+increased login failures,1
+increased network provisioning latencies,1
+increased outlook sync latencies and errors,1
+increased propagation time,2
+increased propagation time for invalidations,1
+increased provisioning and registration times,2
+increased provisioning error rates,2
+increased provisioning latencies,2
+increased provisioning times,1
+increased query failures and latency,1
+increased route 53 console errors,1
+increased saml sign-in error rates,1
+increased sns message delivery latency,1
+"increased stack create, delete and update times",1
+"increased stack create, delete and update times.",1
+increased subscription error rates,2
+increased update table processing times,1
+increased web console error rate,1
+increased website latencies and error rates,1
+instance availability,2
+instance connectivity,2
+instance connectivity and instance status check metrics,1
+instance connectivity issues,1
+instance impairments,2
+instance launch errors and connectivity issues,1
+instances unavailable,1
+instances unavailable in a single availability zone,1
+internet connectivity,2
+internet connectivity issues,1
+job state transition delays,1
+latencies in dynamodb control plane operations,1
+network connectivity,22
+network connectivity and api error rates,1
+network connectivity issues,3
+nlb    network connectivity for nlb,1
+route 53 dns change issues,1
+single az intermittent dns lookup,1
+single sign-on,1
+small number of amazon aurora instances unavailable,1
+sns elevated error rates for sns,1
+storage gateway vm storage gateway vms offline,1
+storage gateway vms offline,8
+title: increased launch errors,1
+traffic impacted for nat gateways,1
+traffic impacted for network load balancer,1
+traffic impacted for vpc endpoints,1
+validation and issuance delays for new certificates,1
+workspaces launch errors,1
