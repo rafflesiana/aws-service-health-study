@@ -1,0 +1,264 @@
+simple_service_name,problem,size
+API Gateway,increase api error rates,1
+API Gateway,increased error rates,3
+AppStream 2.0,elevated api error rates,1
+AppStream 2.0,increased error rates,1
+AppStream 2.0,increased instance provisioning error rates,1
+AppSync,increased error rates,1
+Athena,increased query failures and latency,1
+Athena,increased web console error rate,1
+Auto Scaling,api faults and latencies,1
+Auto Scaling,increased api error rates,2
+Auto Scaling,increased api error rates and latencies,1
+Auto Scaling,increased auto scaling api errors,2
+Auto Scaling,increased error rates,1
+Auto Scaling,increased error rates and latencies,1
+Auto Scaling,increased launch latencies,1
+Auto Scaling,increased launch times,1
+Backup,increased api error rates,2
+Batch,increased api error rates and latencies,1
+Batch,increased delays in job state transition,1
+Batch,increased error rates,1
+Batch,increased job processing delays,1
+Batch,job state transition delays,1
+Billing Console,increased billing console error rates,2
+Billing Console,increased console error rates and latencies,1
+Certificate Manager,certificate issuance delays,2
+Certificate Manager,increased api error rates,1
+Certificate Manager,increased error rates,2
+Certificate Manager,validation and issuance delays for new certificates,1
+Chime,authentication availability,1
+Chime,availability,3
+Chime,increased error rates,1
+Cloud9,increased api error rates,1
+CloudFormation,elevated error rates,1
+CloudFormation,elevated stack latencies,1
+CloudFormation,increased console error rates,1
+CloudFormation,increased error rates,1
+CloudFormation,increased error rates and latencies,1
+CloudFormation,"increased stack create, delete and update times",1
+CloudFormation,"increased stack create, delete and update times.",1
+CloudFront,change propagation and invalidations reporting delay,1
+CloudFront,change propagation delays,5
+CloudFront,cloudfront dns errors,1
+CloudFront,cloudfront high error rates,1
+CloudFront,delays in invalidation change times,1
+CloudFront,delays in propagating certain configuration changes to a few cloudfront edge locations,1
+CloudFront,elevated cloudfront api errors,1
+CloudFront,elevated errors from one of our edge locations in japan,1
+CloudFront,elevated lambda@edge errors,1
+CloudFront,increased console errors,1
+CloudFront,increased error rates,1
+CloudFront,increased invalidation error rates,1
+CloudFront,increased propagation time for invalidations,1
+CloudHSM,connectivity issues,1
+CloudWatch,alarm delays,1
+CloudWatch,api error rates and metric delays,1
+CloudWatch,delayed metrics,1
+CloudWatch,elevated api errors and delayed metrics,1
+CloudWatch,elevated api faults and alarm delays,1
+CloudWatch,elevated api faults and latencies in eu-west-1.,1
+CloudWatch,elevated error rates,3
+CloudWatch,elevated latencies and faults in eu-west-2,1
+CloudWatch,elevated query error rates and delays for cloudwatch logs insights in us-east-1 region,1
+CloudWatch,increased cloudwatch api error rates,1
+CloudWatch,increased error rates,1
+CloudWatch,increased error rates and latencies,1
+CloudWatch,increased faults and latencies,1
+CodeBuild,increased build error rates,1
+CodeBuild,increased error rates,1
+CodeBuild,increased error rates for builds,1
+CodeCommit,increased error rates,1
+CodeDeploy,elevated api error rates,1
+CodeDeploy,increased deployment latencies,1
+Cognito,elevated sign in error rates,1
+Cognito,increased api error rates,2
+Cognito,increased errors,1
+Connect,call quality degradation,1
+Connect,degraded call handling,1
+Connect,degraded call handling experience,1
+Connect,degraded metrics performance,1
+Connect,increased call failures,1
+Connect,increased error rates,2
+Connect,increased errors,1
+DeepRacer,increased error rates for training jobs,1
+Direct Connect,increased api errors and latencies,1
+Direct Connect,network connectivity,1
+DynamoDB,elevated failure rates,1
+DynamoDB,increased 400 error rates,1
+DynamoDB,increased update table processing times,1
+DynamoDB,latencies in dynamodb control plane operations,1
+ElastiCache,increased api error rates,1
+Elastic Beanstalk,increased api error rates,2
+Elastic Beanstalk,increased api failure rates,1
+Elastic Beanstalk,increased error rates,1
+Elastic Compute Cloud,api error rates and latencies,1
+Elastic Compute Cloud,degraded volume performance for ebs volumes / insufficient-data for ec2 instance status checks,1
+Elastic Compute Cloud,delayed network provisioning,1
+Elastic Compute Cloud,dns resolution issues,1
+Elastic Compute Cloud,ebs volumes degraded performance,1
+Elastic Compute Cloud,ec2 instance meta data service errors,1
+Elastic Compute Cloud,ec2 launch failures,1
+Elastic Compute Cloud,ec2 recursive dns resolution issues,1
+Elastic Compute Cloud,elevated launch failures,1
+Elastic Compute Cloud,increased api and launch error rates,1
+Elastic Compute Cloud,increased api error rates,12
+Elastic Compute Cloud,increased api error rates and latencies,5
+Elastic Compute Cloud,increased api error rates and launch failures,1
+Elastic Compute Cloud,increased api error rates for ec2 spot,1
+Elastic Compute Cloud,increased api errors,2
+Elastic Compute Cloud,increased error rates,1
+Elastic Compute Cloud,increased launch error rates,1
+Elastic Compute Cloud,increased launch errors &amp; api errors,1
+Elastic Compute Cloud,increased launch failures,1
+Elastic Compute Cloud,increased network provisioning latencies,1
+Elastic Compute Cloud,instance availability,1
+Elastic Compute Cloud,instance connectivity,2
+Elastic Compute Cloud,instance connectivity and instance status check metrics,1
+Elastic Compute Cloud,instance connectivity issues,1
+Elastic Compute Cloud,instance impairments,1
+Elastic Compute Cloud,instance launch errors and connectivity issues,1
+Elastic Compute Cloud,instances unavailable,1
+Elastic Compute Cloud,instances unavailable in a single availability zone,1
+Elastic Compute Cloud,internet connectivity,1
+Elastic Compute Cloud,network connectivity,11
+Elastic Compute Cloud,network connectivity and api error rates,1
+Elastic Compute Cloud,network connectivity issues,3
+Elastic Compute Cloud,title: increased launch errors,1
+Elastic Compute Cloud,traffic impacted for nat gateways,1
+Elastic Container Registry,elevated api error rates,2
+Elastic Container Registry,increased error rates,1
+Elastic Container Service,elevated api error rates,2
+Elastic Container Service,increased api error rates and launches,1
+Elastic Container Service,increased error rates,1
+Elastic File System,increased api error rates,1
+Elastic File System,increased error rates,2
+Elastic File System,network connectivity,1
+Elastic Kubernetes Service,increased api error rates and launches,1
+Elastic Load Balancing,api error rate,1
+Elastic Load Balancing,connectivity issues for network load balancers,1
+Elastic Load Balancing,increased api error rates,3
+Elastic Load Balancing,increased error rate,1
+Elastic Load Balancing,increased error rates and latencies,1
+Elastic Load Balancing,increased provisioning and registration times,2
+Elastic Load Balancing,increased provisioning latencies,2
+Elastic Load Balancing,increased provisioning times,1
+Elastic Load Balancing,nlb    network connectivity for nlb,1
+Elastic Load Balancing,traffic impacted for network load balancer,1
+Elastic MapReduce,delays in starting clusters,2
+Elastic MapReduce,failures in starting clusters,9
+Elasticsearch Service,domain connectivity,1
+Elasticsearch Service,increased domain operation error rates,1
+Elasticsearch Service,increased indexing and query error rates for some vpc domains,1
+EventBridge,increased api error rates and event delivery latencies,1
+EventBridge,increased api errors and event delivery latencies,1
+Glacier,increased error rates,1
+Glue,increased error rates,1
+Identity and Access Management,increased api error rates,2
+Identity and Access Management,increased api latencies,1
+Identity and Access Management,increased console error rates,1
+Identity and Access Management,increased error rates,1
+Identity and Access Management,increased error rates &amp; latencies,1
+Identity and Access Management,increased error rates and latencies,4
+Identity and Access Management,increased iam error rates and latencies,1
+Identity and Access Management,increased saml sign-in error rates,1
+Internet Connectivity,external network connectivity issues,1
+Internet Connectivity,internet connectivity,1
+Internet Connectivity,internet connectivity issues,1
+Internet Connectivity,network connectivity,5
+IoT Analytics,increased api error rates and latency,1
+IoT Core,increased api error rates,1
+IoT Core,increased api error rates and latency,1
+IoT Core,increased api errors and latencies,1
+IoT Core,increased error rates,3
+IoT Core,increased latency and error rates,1
+IoT SiteWise,increased error rates and latency,1
+Key Management Service,increased error rates,1
+Kinesis Analytics,applications not processing data,1
+Kinesis Data Streams,additional information,1
+Kinesis Data Streams,increase error rate,1
+Kinesis Data Streams,increased api error rates,3
+Kinesis Data Streams,increased api errors,1
+Kinesis Data Streams,increased error rates,1
+Kinesis Firehose,delayed data delivery,1
+Kinesis Firehose,increased error rates,2
+Lambda,elevated error rates,1
+Lambda,increased api error rates,3
+Lambda,increased async api latencies,1
+Lambda,increased delays in event processing from streams,1
+Lambda,increased error rates,4
+Lambda,increased invoke error rate,1
+Lambda,increased invoke errors,1
+MQ,increased error rates,1
+Management Console,elevated error rates,1
+Management Console,increased console error rates,2
+Management Console,increased error rates,4
+Marketplace,increased aws marketplace subscription error rates and latencies,1
+Marketplace,increased subscription error rates,2
+NAT Gateway,network connectivity,1
+Organizations,increased api error rates,1
+Personalize,increased api faults,1
+QuickSight,increased website latencies and error rates,1
+Redshift,connectivity issues,1
+Redshift,increased api error rates,2
+Redshift,increased error rates,1
+Relational Database Service,connectivity issues,3
+Relational Database Service,increased api error rates,3
+Relational Database Service,increased api error rates and connectivity issues,1
+Relational Database Service,increased api latencies and management console error rates,1
+Relational Database Service,increased create times and cluster unavailability,2
+Relational Database Service,increased error rates,1
+Relational Database Service,instance availability,1
+Relational Database Service,instance impairments,1
+Relational Database Service,network connectivity,3
+Relational Database Service,small number of amazon aurora instances unavailable,1
+Resource Access Manager,api latencies and error rate,1
+Route 53,change propagation delays & api errors,2
+Route 53,elevated route 53 api error rates,1
+Route 53,further information regarding dns resolution,1
+Route 53,increased api error rates,2
+Route 53,increased change propagation time,1
+Route 53,increased console and api error rates,1
+Route 53,increased propagation time,2
+Route 53,increased route 53 console errors,1
+Route 53,route 53 dns change issues,1
+Route 53 Resolver,dns propagation delays for ec2 instance names,1
+Route 53 Resolver,increased dns query timeouts,1
+Route 53 Resolver,single az intermittent dns lookup,1
+SageMaker,increased error rates and latencies for multiple api operations,1
+Secrets Manager,elevated latencies and api error rates,1
+Simple Email Service,increased email receiving latencies,1
+Simple Notification Service,increased error rates for sms delivery,1
+Simple Notification Service,increased sns message delivery latency,1
+Simple Notification Service,sns elevated error rates for sns,1
+Simple Queue Service,connection reset and socket timeout for sqs,1
+Simple Queue Service,elevated error rates,1
+Simple Queue Service,elevated error rates for fifo queues,1
+Simple Queue Service,elevated error rates for sqs,1
+Simple Queue Service,increased error rates,1
+Simple Storage Service,elevated error rates,1
+Simple Storage Service,increased error rates,4
+Simple Storage Service,increased error rates for bucket operations,1
+Simple Workflow Service,elevated api and workflow execution latencies,1
+Simple Workflow Service,elevated error rates for simple workflow,1
+Single Sign-On,increased error rates and latencies,1
+Single Sign-On,single sign-on,1
+Storage Gateway,storage gateway vm storage gateway vms offline,1
+Storage Gateway,storage gateway vms offline,8
+Systems Manager,increased error rates,1
+Transcribe,increased api error rates,1
+Transfer for SFTP,increased login failures,1
+VPCE PrivateLink,traffic impacted for vpc endpoints,1
+Virtual Private Cloud,aws site-to-site vpn connectivity issues,1
+Virtual Private Cloud,increased console error rates,1
+WAF,elevated waf error rates,1
+WorkMail,degraded workmail performance,1
+WorkMail,increased outlook sync latencies and errors,1
+WorkSpaces,connection errors,1
+WorkSpaces,connectivity issues,2
+WorkSpaces,increased api error rates,1
+WorkSpaces,increased error rates,2
+WorkSpaces,increased errors terminating workspaces,1
+WorkSpaces,increased provisioning error rates,2
+WorkSpaces,workspaces launch errors,1
+X-Ray,increased error rates,1
