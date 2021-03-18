@@ -1,0 +1,267 @@
+,region_name,iso_date
+0,Frankfurt,2018-07-19
+1,Frankfurt,2018-08-08
+2,Frankfurt,2018-10-01
+3,Frankfurt,2019-10-08
+4,Frankfurt,2019-10-09
+5,Frankfurt,2019-11-12
+6,Frankfurt,2020-09-13
+7,Global,2018-06-06
+8,Global,2018-06-13
+9,Global,2018-06-21
+10,Global,2018-07-06
+11,Global,2018-07-12
+12,Global,2018-07-16
+13,Global,2018-08-06
+14,Global,2018-08-08
+15,Global,2018-10-25
+16,Global,2018-11-13
+17,Global,2018-12-02
+18,Global,2019-01-14
+19,Global,2019-01-25
+20,Global,2019-02-04
+21,Global,2019-02-13
+22,Global,2019-02-20
+23,Global,2019-02-21
+24,Global,2019-02-27
+25,Global,2019-03-20
+26,Global,2019-03-29
+27,Global,2019-04-03
+28,Global,2019-04-13
+29,Global,2019-04-18
+30,Global,2019-04-25
+31,Global,2019-04-29
+32,Global,2019-05-10
+33,Global,2019-05-11
+34,Global,2019-09-19
+35,Global,2019-09-22
+36,Global,2019-10-20
+37,Global,2019-10-24
+38,Global,2019-11-05
+39,Global,2019-11-06
+40,Global,2019-11-12
+41,Global,2019-12-19
+42,Global,2019-12-27
+43,Global,2020-01-15
+44,Global,2020-01-18
+45,Global,2020-01-24
+46,Global,2020-01-30
+47,Global,2020-02-13
+48,Global,2020-03-11
+49,Global,2020-03-25
+50,Global,2020-03-30
+51,Global,2020-04-21
+52,Global,2020-06-12
+53,Global,2020-07-21
+54,Global,2020-09-02
+55,Global,2020-09-03
+56,Global,2020-09-16
+57,Global,2020-09-26
+58,Global,2020-10-01
+59,Global,2020-10-14
+60,Global,2020-11-06
+61,Global,2020-11-22
+62,Global,2020-11-25
+63,Hong Kong,2019-05-01
+64,Hong Kong,2019-11-07
+65,Ireland,2018-08-08
+66,Ireland,2018-08-20
+67,Ireland,2018-09-26
+68,Ireland,2018-10-25
+69,Ireland,2018-11-14
+70,Ireland,2019-01-25
+71,Ireland,2019-02-28
+72,Ireland,2019-03-31
+73,Ireland,2019-04-02
+74,Ireland,2019-05-10
+75,Ireland,2019-09-12
+76,Ireland,2019-10-02
+77,Ireland,2019-10-05
+78,Ireland,2020-01-08
+79,Ireland,2020-06-23
+80,Ireland,2020-07-14
+81,Ireland,2020-09-13
+82,London,2019-01-12
+83,London,2019-06-30
+84,London,2019-07-23
+85,London,2020-07-10
+86,London,2020-08-25
+87,London,2021-02-01
+88,Montreal,2019-02-14
+89,Mumbai,2018-08-08
+90,Mumbai,2020-01-19
+91,Mumbai,2020-11-12
+92,N. California,2018-08-08
+93,N. California,2018-10-16
+94,N. California,2018-10-19
+95,N. California,2020-05-10
+96,N. California,2020-08-20
+97,N. California,2020-09-13
+98,N. Virginia,2018-05-10
+99,N. Virginia,2018-05-15
+100,N. Virginia,2018-05-16
+101,N. Virginia,2018-05-22
+102,N. Virginia,2018-05-30
+103,N. Virginia,2018-05-31
+104,N. Virginia,2018-06-07
+105,N. Virginia,2018-06-13
+106,N. Virginia,2018-06-18
+107,N. Virginia,2018-06-21
+108,N. Virginia,2018-06-27
+109,N. Virginia,2018-06-29
+110,N. Virginia,2018-08-07
+111,N. Virginia,2018-08-08
+112,N. Virginia,2018-08-20
+113,N. Virginia,2018-08-21
+114,N. Virginia,2018-09-05
+115,N. Virginia,2018-09-12
+116,N. Virginia,2018-09-28
+117,N. Virginia,2018-10-05
+118,N. Virginia,2018-10-09
+119,N. Virginia,2018-10-17
+120,N. Virginia,2018-10-23
+121,N. Virginia,2018-11-20
+122,N. Virginia,2018-12-03
+123,N. Virginia,2018-12-19
+124,N. Virginia,2019-01-03
+125,N. Virginia,2019-01-27
+126,N. Virginia,2019-02-25
+127,N. Virginia,2019-03-07
+128,N. Virginia,2019-03-11
+129,N. Virginia,2019-03-12
+130,N. Virginia,2019-03-22
+131,N. Virginia,2019-03-29
+132,N. Virginia,2019-04-08
+133,N. Virginia,2019-04-11
+134,N. Virginia,2019-04-25
+135,N. Virginia,2019-04-29
+136,N. Virginia,2019-05-24
+137,N. Virginia,2019-06-17
+138,N. Virginia,2019-06-27
+139,N. Virginia,2019-08-19
+140,N. Virginia,2019-08-20
+141,N. Virginia,2019-08-31
+142,N. Virginia,2019-09-13
+143,N. Virginia,2019-09-17
+144,N. Virginia,2019-09-22
+145,N. Virginia,2019-09-26
+146,N. Virginia,2019-10-05
+147,N. Virginia,2019-10-08
+148,N. Virginia,2019-10-25
+149,N. Virginia,2019-10-29
+150,N. Virginia,2019-11-08
+151,N. Virginia,2019-11-12
+152,N. Virginia,2019-11-13
+153,N. Virginia,2019-11-16
+154,N. Virginia,2019-11-24
+155,N. Virginia,2020-01-16
+156,N. Virginia,2020-02-03
+157,N. Virginia,2020-02-04
+158,N. Virginia,2020-03-04
+159,N. Virginia,2020-03-05
+160,N. Virginia,2020-03-27
+161,N. Virginia,2020-04-09
+162,N. Virginia,2020-04-17
+163,N. Virginia,2020-04-21
+164,N. Virginia,2020-05-21
+165,N. Virginia,2020-06-10
+166,N. Virginia,2020-07-08
+167,N. Virginia,2020-07-20
+168,N. Virginia,2020-07-23
+169,N. Virginia,2020-07-27
+170,N. Virginia,2020-07-28
+171,N. Virginia,2020-07-29
+172,N. Virginia,2020-08-31
+173,N. Virginia,2020-09-01
+174,N. Virginia,2020-09-13
+175,N. Virginia,2020-09-16
+176,N. Virginia,2020-09-30
+177,N. Virginia,2020-10-09
+178,N. Virginia,2020-11-02
+179,N. Virginia,2020-11-17
+180,N. Virginia,2020-11-20
+181,N. Virginia,2020-11-25
+182,N. Virginia,2020-11-26
+183,N. Virginia,2020-12-18
+184,N. Virginia,2021-01-24
+185,N. Virginia,2021-01-26
+186,N. Virginia,2021-02-02
+187,N. Virginia,2021-02-04
+188,N. Virginia,2021-02-10
+189,N. Virginia,2021-02-16
+190,N. Virginia,2021-02-25
+191,N. Virginia,2021-03-04
+192,N. Virginia,2021-03-16
+193,Ohio,2018-05-31
+194,Ohio,2018-08-08
+195,Ohio,2018-10-05
+196,Ohio,2018-11-21
+197,Ohio,2019-05-03
+198,Ohio,2021-03-09
+199,Oregon,2018-05-31
+200,Oregon,2018-08-27
+201,Oregon,2018-10-01
+202,Oregon,2018-10-04
+203,Oregon,2018-11-18
+204,Oregon,2018-11-20
+205,Oregon,2019-02-09
+206,Oregon,2019-03-13
+207,Oregon,2019-03-27
+208,Oregon,2019-03-28
+209,Oregon,2019-10-05
+210,Oregon,2020-03-25
+211,Oregon,2020-04-30
+212,Oregon,2020-05-22
+213,Oregon,2020-06-03
+214,Oregon,2020-06-26
+215,Oregon,2020-08-25
+216,Oregon,2020-09-13
+217,Oregon,2020-09-17
+218,Oregon,2020-09-18
+219,Oregon,2020-12-15
+220,Oregon,2021-01-07
+221,Paris,2018-08-08
+222,Paris,2020-01-22
+223,Sao Paulo,2018-05-17
+224,Sao Paulo,2018-12-12
+225,Sao Paulo,2019-04-17
+226,Sao Paulo,2020-06-06
+227,Sao Paulo,2020-09-13
+228,Sao Paulo,2020-09-17
+229,Sao Paulo,2020-10-10
+230,Sao Paulo,2020-11-20
+231,Sao Paulo,2020-12-07
+232,Seoul,2018-11-22
+233,Seoul,2020-10-25
+234,Seoul,2020-11-11
+235,Seoul,2020-12-18
+236,Seoul,2021-01-28
+237,Singapore,2018-08-08
+238,Singapore,2019-06-24
+239,Singapore,2019-10-01
+240,Singapore,2020-09-13
+241,Sydney,2018-08-08
+242,Sydney,2019-02-13
+243,Sydney,2019-04-30
+244,Sydney,2019-11-26
+245,Sydney,2020-01-23
+246,Sydney,2020-03-10
+247,Sydney,2020-09-13
+248,Sydney,2020-10-22
+249,Sydney,2021-03-07
+250,Tokyo,2018-08-02
+251,Tokyo,2018-08-08
+252,Tokyo,2019-08-23
+253,Tokyo,2020-04-20
+254,Tokyo,2020-09-13
+255,Tokyo,2020-10-22
+256,Tokyo,2021-01-28
+257,Tokyo,2021-02-19
+258,US-East,2019-04-04
+259,US-East,2019-04-25
+260,US-East,2019-07-12
+261,US-East,2020-07-15
+262,US-West,2018-12-11
+263,US-West,2019-11-07
+264,US-West,2020-02-13
+265,US-West,2020-03-16
